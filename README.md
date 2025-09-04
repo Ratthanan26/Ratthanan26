@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analysis projects 
 - 📫 How to reach me ... emailed me via ratthanan.bu@gmail.com or inbox
 - ⚡ Fun fact: ... I like taking photos and making a videos, I've done a lot of projects in college as videographer and video editor.
+- >> Portfolio >> Food delivery time prediction using Excel Project >> 
 
 <!---
 Ratthanan26/Ratthanan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
